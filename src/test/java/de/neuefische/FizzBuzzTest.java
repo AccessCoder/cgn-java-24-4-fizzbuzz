@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class FizzBuzzTest {
 
+
     @Test
     void play_shouldReturn1_whenCalledWith1(){
         //GIVEN
